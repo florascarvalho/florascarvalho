@@ -1,4 +1,4 @@
-## Olá, sou a Flora e seja bem vindo no meu perfil 🤸🏼‍♀️
+<h1>Olá, sou a Flora <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--
 **florascarvalho/florascarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
