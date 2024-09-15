@@ -25,5 +25,6 @@
  <a href="mailto:flora_scarvalho@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
  </a> 
 </div>
-
+<h1></h1>
+<img align="left" alt"Typing" src="https://tenor.com/pt-BR/view/corgi-computer-typing-gif-5104411">
 
