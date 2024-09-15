@@ -1,9 +1,10 @@
 <h1>Olá, sou a Flora <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br/>
 
-<a href="[https://github.com/iuricode](https://github.com/florascarvalho)" title="Perfil da Flora">
+<a href="https://github.com/florascarvalho" title="Perfil da Flora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=florascarvalho&theme=dracula&show_icons=true" />
 </a>
+<h1></h1>
 
 <!--
 **florascarvalho/florascarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div> 
 <a href="https://www.linkedin.com/in/florascarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:flora_scarvalho@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
