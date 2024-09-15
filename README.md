@@ -9,7 +9,7 @@
 <div> 
 <a href="https://github.com/florascarvalho" title="Perfil da Flora">
 <img height="42%" src="https://github-readme-stats.vercel.app/api?username=florascarvalho&theme=dracula&show_icons=true"/></a>
-<img height="42%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&langs_count=168&theme=dracula"/>
+<img height="52%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&langs_count=168&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
