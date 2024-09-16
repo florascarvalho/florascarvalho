@@ -7,8 +7,8 @@
 <h1></h1>
 <div>
 <a href="https://github.com/florascarvalho">
-<img heigth="145" src="https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula"/></a>
-<img heigth="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&theme=dracula"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula"/></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&theme=dracula"/>
 </div>  
 
 <div style="display: inline_block"><br>
