@@ -6,15 +6,15 @@
 - 🌱 Aprendendo mais sobre Engenharia de Dados e Plataforma.
 <h1></h1>
 
-<div> 
-<a href="https://github.com/florascarvalho" title="Perfil da Flora">
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=florascarvalho&theme=dracula&show_icons=true"/></a>
-<img height="145em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&langs_count=168&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula&size_weight=0.05&count_weight=0.05)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&theme=dracula&size_weight=0.75&count_weight=0.75)
+
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Flora-Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
 <img align="center" alt="Flora-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="center" alt="Flora-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="center" alt="Flora-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>  
 </div>         
 <h1></h1> 
@@ -27,3 +27,5 @@
 
 ![Odin the Corgi Typing Fur-iously](https://i.makeagif.com/media/3-30-2017/jtyvJF.gif)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula)
