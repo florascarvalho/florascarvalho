@@ -5,11 +5,11 @@
 - 🎓 Cursando Pós-Graduação em Data Analytics na FIAP.
 - 🌱 Aprendendo mais sobre Engenharia de Dados e Plataforma.
 <h1></h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula&size_weight=0.05&count_weight=0.05)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&theme=dracula&size_weight=0.75&count_weight=0.75)
-
-
+<div>
+<a href="https://github.com/florascarvalho">
+<img heigth="145" src="https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula"/></a>
+<img heigth="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&layout=compact&theme=dracula"/>
+</div>  
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Flora-Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"/>
@@ -27,5 +27,3 @@
 
 ![Odin the Corgi Typing Fur-iously](https://i.makeagif.com/media/3-30-2017/jtyvJF.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florascarvalho&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florascarvalho&show_icons=true&theme=dracula)
