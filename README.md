@@ -1,9 +1,9 @@
-<h1>Olá, sou a Flora <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello, I'm Flora <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br/>
 
-- 🤔 Explorando novas tecnologias e soluções na área de dados.
-- 🎓 Cursando Pós-Graduação em Data Analytics na FIAP.
-- 🌱 Aprendendo mais sobre Engenharia de Dados e Plataforma.
+- 🤔 Exploring new technologies and solutions in the data field.
+- 🎓 Currently pursuing a postgraduate degree in Data Analytics at FIAP.
+- 🌱 Learning more about Data Engineering and Platforms.
 <h1></h1>
 <div>
 <a href="https://github.com/florascarvalho">
